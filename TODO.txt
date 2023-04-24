@@ -1,0 +1,5 @@
+Duración.
+Nombre de la pelicula.
+Fecha de estreno.
+Link del trailer.
+Tipo de trailer.
